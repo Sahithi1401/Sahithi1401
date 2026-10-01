@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/🌐_CALCULYX_AI-LIVE-111827?style=for-the-badge" />
 </a>
 
-<a href="mailto:sahithimitta09@gmail.com">
+<a href="mailto:mittasahithi1401@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-sahithimitta09%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
